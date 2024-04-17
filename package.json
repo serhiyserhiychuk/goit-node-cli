@@ -1,0 +1,16 @@
+{
+  "name": "commander",
+  "type": "module",
+  "version": "0.8.0",
+  "description": "'CLI to some JavaScript string utilities'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Serhiy Serhiychuk <serhiy.serhiychuk07@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.0.0",
+    "nanoid": "^5.0.7"
+  }
+}
